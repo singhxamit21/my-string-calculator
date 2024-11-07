@@ -1,4 +1,3 @@
-// Calculator.js
 import React, { useEffect, useState } from "react";
 import { add } from "../calculatorLogic";
 

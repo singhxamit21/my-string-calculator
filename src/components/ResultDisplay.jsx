@@ -1,4 +1,3 @@
-// ResultDisplay.js
 import React from "react";
 import "./ResultDisplay.css";
 
