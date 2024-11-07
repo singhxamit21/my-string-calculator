@@ -1,0 +1,14 @@
+/* ResultDisplay.css */
+.result-display {
+    margin-top: 20px;
+}
+
+.result-message {
+    font-size: 1.2rem;
+    color: green;
+}
+
+.error-message {
+    font-size: 1.2rem;
+    color: red;
+}

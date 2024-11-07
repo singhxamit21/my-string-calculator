@@ -1,0 +1,29 @@
+/* InputField.css */
+.input-field {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.input-field input {
+    flex: 1;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.input-field button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.input-field button:hover {
+    background-color: #0056b3;
+}
